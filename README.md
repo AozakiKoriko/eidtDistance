@@ -11,12 +11,14 @@ This project consists of two main files: `main.cpp` and `function.h`.
 
 To compile the code, you will need a compiler that supports C++14 or later. Use the following command to compile:
 
-```bash
+```shell
 g++ main.cpp -o edit_distance
-
+```
 After successful compilation, an executable named edit_distance will be created.
 
 To run the code, use the following command:
+```shell
 ./edit_distance
+```
 
 Then, the program will ask you to enter two strings, one after the other. After both strings are entered, it will calculate the minimum edit distance and print the sequence of operations that transforms the first string into the second.
