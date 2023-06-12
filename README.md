@@ -2,9 +2,9 @@
 This project implements a simple Edit Distance Calculator that calculates the minimum edit distance between two input strings and prints out the operations sequence. 
 
 ## Author
-Name: Hanlin Zha
-Student ID: 862156530
-NetID: hzha001
+- **Name**: Hanlin Zha
+- **Student ID**: 862156530
+- **NetID**: hzha001
 
 ## Compilation and Execution
 This project consists of two main files: `main.cpp` and `function.h`. 
